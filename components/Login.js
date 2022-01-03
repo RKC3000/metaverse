@@ -11,7 +11,7 @@ function Login() {
         {/* Papafam logo */}
         <Image
           className="object-cover rounded-full"
-          src="https://links.papareact.com/3pi"
+          src="/My-picture-1.jpg"
           height={200}
           width={200}
         />
