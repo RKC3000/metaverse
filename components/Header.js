@@ -14,7 +14,7 @@ function Header() {
             layout="fill"
             objectFit="cover"
             className="rounded-full"
-            src="https://links.papareact.com/3pi"
+            src="/My-picture-1.jpg"
           />
         </div>
 
